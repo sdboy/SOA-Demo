@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import java.util.List;
+
 /**
  * @author zhangyong@shopin.cn
  * @date 2018/2/5 12:50
@@ -16,12 +18,18 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class UserController {
 
-    @Reference(version = "1.0.0")
+    @Reference(version = "1.0.0", timeout = 10000)
     UserService userService;
 
     @RequestMapping("/selectUserById/{userId}")
     @ResponseBody
     public ResultBean<User> selectUserById(@PathVariable Long userId) {
         return new ResultBean<User>(userService.selectUserById(userId));
+    }
+
+    @RequestMapping("/selectUserList")
+    @ResponseBody
+    public ResultBean<List<User>> selectUserList() {
+        return new ResultBean<List<User>>(userService.selectUserList());
     }
 }

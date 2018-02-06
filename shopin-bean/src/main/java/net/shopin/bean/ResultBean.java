@@ -16,6 +16,7 @@ public class ResultBean<T> implements Serializable {
     public static final int SUCCESS = 0;
     public static final int FAIL = 1;
     public static final int NO_PERMISSION = 2;
+
     private static final long serialVersionUID = -2009666727270407611L;
 
     public String msg = "success";
