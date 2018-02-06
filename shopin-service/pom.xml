@@ -26,7 +26,6 @@
         <dependency>
             <groupId>net.shopin</groupId>
             <artifactId>shopin-dubbo</artifactId>
-            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -65,6 +64,7 @@
             <scope>runtime</scope>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
