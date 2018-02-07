@@ -1,118 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13121e34-74e5-4d41-8b13-acffe3218a6f" name="Default" comment="add new origin/dev">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/bean/ResultBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample$Criteria.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample$Criterion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample$GeneratedCriteria.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/shopin-bean-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/classes/net/shopin/mapper/UserMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/shopin-dao-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/classes/net/shopin/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/shopin-dubbo-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/classes/net/shopin/ProviderApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/classes/net/shopin/service/impl/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/shopin-service-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/shopin-service-1.0-SNAPSHOT.jar.original" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/classes/net/shopin/ConsumerApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/classes/net/shopin/controller/BaseController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/classes/net/shopin/controller/UserController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/ConsumerApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution$A.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution$B.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution$C.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/controller/BaseController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/controller/UserController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/classmate-1.3.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/dubbo-2.5.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/hibernate-validator-5.3.5.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jackson-annotations-2.8.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jackson-core-2.8.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jackson-databind-2.8.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/javassist-3.21.0-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jline-0.9.94.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/log4j-1.2.16.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/logback-classic-1.1.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/logback-core-1.1.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-3.4.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-spring-boot-starter-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mysql-connector-java-6.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/netty-3.10.5.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/netty-3.2.5.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/shopin-bean-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/shopin-dubbo-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/slf4j-api-1.7.25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/snakeyaml-1.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-1.5.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-autoconfigure-1.5.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-1.5.7.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-dubbo-1.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-jdbc-1.5.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-logging-1.5.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-tomcat-1.5.7.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-web-1.5.7.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-annotations-api-8.5.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-embed-core-8.5.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-embed-el-8.5.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-embed-websocket-8.5.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-jdbc-8.5.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-juli-8.5.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/zkclient-0.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/zookeeper-3.4.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-bean/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/classes/net/shopin/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopin-web/target/shopin-web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/~$dubbo.mmap.~$lock" />
+    <list default="true" id="13121e34-74e5-4d41-8b13-acffe3218a6f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/bean/ResultBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/classes/net/shopin/domain/UserExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-bean/target/shopin-bean-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/classes/net/shopin/mapper/UserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/classes/net/shopin/mapper/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dao/target/shopin-dao-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/classes/net/shopin/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-dubbo/target/shopin-dubbo-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/classes/net/shopin/ProviderApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/classes/net/shopin/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/shopin-service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-service/target/shopin-service-1.0-SNAPSHOT.jar.original" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/classes/net/shopin/ConsumerApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/classes/net/shopin/controller/BaseController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/classes/net/shopin/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/ConsumerApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution$A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution$C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/controller/BaseController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/classes/net/shopin/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/classmate-1.3.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/dubbo-2.5.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/hibernate-validator-5.3.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jackson-core-2.8.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jackson-databind-2.8.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jline-0.9.94.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-3.4.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mybatis-spring-boot-starter-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/mysql-connector-java-6.0.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/netty-3.10.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/netty-3.2.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/shopin-bean-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/shopin-dubbo-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-1.5.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-autoconfigure-1.5.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-1.5.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-dubbo-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-jdbc-1.5.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-logging-1.5.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-tomcat-1.5.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-boot-starter-web-1.5.7.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-annotations-api-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-embed-core-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-embed-el-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-embed-websocket-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-jdbc-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/tomcat-juli-8.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/zkclient-0.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/lib/zookeeper-3.4.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopin-web/target/shopin-web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/~$dubbo.mmap.~$lock" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo.mmap" afterPath="$PROJECT_DIR$/dubbo.mmap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/bean/ResultBean.java" afterPath="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/bean/ResultBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/domain/User.java" afterPath="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/domain/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/shopin_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shopin_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-dao/pom.xml" afterPath="$PROJECT_DIR$/shopin-dao/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.java" afterPath="$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-dubbo/src/main/java/net/shopin/service/UserService.java" afterPath="$PROJECT_DIR$/shopin-dubbo/src/main/java/net/shopin/service/UserService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-service/pom.xml" afterPath="$PROJECT_DIR$/shopin-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/UserController.java" afterPath="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/ProviderApplication.java" afterPath="$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/ProviderApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-service/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/shopin-service/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-web/pom.xml" afterPath="$PROJECT_DIR$/shopin-web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-web/shopin-web.iml" afterPath="$PROJECT_DIR$/shopin-web/shopin-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/BaseController.java" afterPath="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/BaseController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopin-web/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/shopin-web/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -130,45 +138,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/UserController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2006">
+              <caret line="118" column="51" lean-forward="false" selection-start-line="118" selection-start-column="51" selection-end-line="118" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProviderApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/ProviderApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="25" column="71" lean-forward="true" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
-                <element signature="e#964#965#0" expanded="true" />
-                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopin-dubbo/src/main/java/net/shopin/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reference.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/config/annotation/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="27" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -204,26 +191,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/shopin-dubbo/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/shopin-dubbo/src/main/java/net/shopin/service/UserService.java" />
         <option value="$PROJECT_DIR$/shopin-service/src/main/java/ProviderApplication.java" />
-        <option value="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/BaseController.java" />
-        <option value="$PROJECT_DIR$/shopin-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/shopin-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/shopin-web/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/ConsumerApplication.java" />
         <option value="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/domain/UserExample.java" />
-        <option value="$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/ProviderApplication.java" />
         <option value="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/Solution.java" />
-        <option value="$PROJECT_DIR$/shopin-web/pom.xml" />
         <option value="$PROJECT_DIR$/shopin-bean/pom.xml" />
-        <option value="$PROJECT_DIR$/shopin-service/pom.xml" />
         <option value="$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/bean/ResultBean.java" />
         <option value="$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/domain/User.java" />
         <option value="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/shopin-dubbo/src/main/java/net/shopin/service/UserService.java" />
+        <option value="$PROJECT_DIR$/shopin-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shopin-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shopin-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shopin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shopin-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/ProviderApplication.java" />
       </list>
     </option>
   </component>
@@ -252,20 +239,29 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shopin-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shopin-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="shopin-soa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="shopin-soa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-53" />
-    <option name="y" value="93" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -285,9 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,25 +291,30 @@
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -324,7 +322,7 @@
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -333,7 +331,7 @@
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -343,7 +341,63 @@
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
-              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -355,13 +409,54 @@
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
               <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="shopin" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
@@ -419,15 +514,30 @@
               <item name="shopin" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHOPIN-SOA" type="462c0819:PsiDirectoryNode" />
+              <item name="shopin-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHOPIN-SOA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
@@ -565,7 +675,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517882964078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new method - (selectUserList)">
+      <created>1517911545340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517911545340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -573,31 +690,31 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1281337" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10055866" sideWeight="0.49713466" order="15" side_tool="false" content_ui="combo" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5028653" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13128492" sideWeight="0.49713466" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15472779" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1790831" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51256984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25279328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77374303" sideWeight="0.49713466" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18767908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37893984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16061452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16061452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1281337" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -610,7 +727,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add dubbo.mmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dubbo.mmap" />
+    <MESSAGE value="add new method - (selectUserList)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new method - (selectUserList)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -619,107 +737,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeaderExchangeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/remoting/transport/DecodeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/remoting/transport/dispatcher/ChannelEventRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/rpc/proxy/jdk/JdkProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7.jar!/META-INF/dubbo/internal/com.alibaba.dubbo.cache.CacheFactory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7.jar!/META-INF/maven/com.alibaba/dubbo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/container/jetty/JettyContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/container/page/pages/HomePageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopin-bean/src/main/java/net/shopin/domain/UserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/javax/servlet/http/HttpServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="761" column="42" lean-forward="true" selection-start-line="761" selection-start-column="42" selection-end-line="761" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopin-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2">
           <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="484" column="43" lean-forward="true" selection-start-line="484" selection-start-column="43" selection-end-line="484" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-304">
           <caret line="454" column="0" lean-forward="false" selection-start-line="454" selection-start-column="0" selection-end-line="454" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,17 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#516#517#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="903" column="0" lean-forward="false" selection-start-line="903" selection-start-column="0" selection-end-line="903" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="847" column="0" lean-forward="false" selection-start-line="847" selection-start-column="0" selection-end-line="847" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,7 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,7 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,7 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -889,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,7 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="478" column="0" lean-forward="false" selection-start-line="478" selection-start-column="0" selection-end-line="478" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -945,7 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="341" column="0" lean-forward="false" selection-start-line="341" selection-start-column="0" selection-end-line="341" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -953,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="808" column="0" lean-forward="false" selection-start-line="808" selection-start-column="0" selection-end-line="808" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="1458" column="0" lean-forward="false" selection-start-line="1458" selection-start-column="0" selection-end-line="1458" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="867" column="0" lean-forward="false" selection-start-line="867" selection-start-column="0" selection-end-line="867" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="73" column="43" lean-forward="true" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -993,41 +973,149 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.7/dubbo-2.5.7-sources.jar!/com/alibaba/dubbo/config/annotation/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="238">
           <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        <state relative-caret-position="204">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-bean/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopin-dubbo/src/main/java/net/shopin/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="187">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-dao/src/main/java/net/shopin/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517818971388" expanded="true" signature="3645:3754" ph="select from user" />
+            <marker date="1517818971388" expanded="true" signature="3838:3891" ph="delete from " />
+            <marker date="1517818971388" expanded="true" signature="3987:4008" ph="delete from " />
+            <marker date="1517818971388" expanded="true" signature="4181:4397" ph="insert into user... " />
+            <marker date="1517818971388" expanded="true" signature="5474:5504" ph="select count... user" />
+            <marker date="1517818971388" expanded="true" signature="6427:6712" ph="update user " />
+            <marker date="1517818971388" expanded="true" signature="6916:7353" ph="update user " />
+            <marker date="1517818971388" expanded="true" signature="7445:7668" ph="update user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="102" lean-forward="false" selection-start-line="12" selection-start-column="102" selection-end-line="12" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-web/src/main/java/net/shopin/ConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="35" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="51" lean-forward="false" selection-start-line="118" selection-start-column="51" selection-end-line="118" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopin-service/src/main/java/net/shopin/ProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="25" column="71" lean-forward="true" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

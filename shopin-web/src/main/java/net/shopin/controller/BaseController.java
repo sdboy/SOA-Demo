@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class BaseController {
 
     @RequestMapping("/index")
-    @ResponseBody
     public ResultBean<String> index() {
+
         return new ResultBean<String>("Hello,SHOPIN-SOA");
     }
 }
