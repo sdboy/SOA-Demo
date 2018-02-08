@@ -77,6 +77,9 @@ Dubbo+SOA的体现：
 ![](http://chuantu.biz/t6/222/1517885738x-1404755564.jpg)
 ### 3.1.3 项目模板地址
 地址: [SHOPIN-SOA](https://github.com/553899811/SHOPIN-SOA)
+```
+  搭建出现问题可以仿照Demo,欢迎各位斧正,hack;
+```
 ## 3.2.配置信息
 ### 3.2.1 各模块pom依赖分析
  - 模板项目只是根据最简单
@@ -429,7 +432,8 @@ Dubbo+SOA的体现：
     </dependencies>
 </project>
 ```
-#### 3.2.1.6 shopin-web
+#### 3.2.1.6 shopin-web 
+ - 该每一个子项目的该模块最终会被提取出来被放到一个单独的API项目中,暴露给其他人以供调用,所以部分存在配置差异,按照实际情况调整;
 ```java
    <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
@@ -615,4 +619,9 @@ public class ConsumerApplication {
         SpringApplication.run(ConsumerApplication.class, args);
     }
 }
+
 ```
+
+
+
+
