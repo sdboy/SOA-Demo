@@ -18,7 +18,7 @@
       <module name="shopin-dao" target="1.8" />
       <module name="shopin-dubbo" target="1.8" />
       <module name="shopin-service" target="1.8" />
-      <module name="SHOPIN-SOA" target="1.8" />
+      <module name="shopin-soa" target="1.8" />
       <module name="shopin-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>

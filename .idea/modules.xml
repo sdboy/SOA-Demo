@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SHOPIN-SOA.iml" filepath="$PROJECT_DIR$/SHOPIN-SOA.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopin-bean/shopin-bean.iml" filepath="$PROJECT_DIR$/shopin-bean/shopin-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopin-dao/shopin-dao.iml" filepath="$PROJECT_DIR$/shopin-dao/shopin-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopin-dubbo/shopin-dubbo.iml" filepath="$PROJECT_DIR$/shopin-dubbo/shopin-dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopin-service/shopin-service.iml" filepath="$PROJECT_DIR$/shopin-service/shopin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopin-soa.iml" filepath="$PROJECT_DIR$/shopin-soa.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopin-web/shopin-web.iml" filepath="$PROJECT_DIR$/shopin-web/shopin-web.iml" />
     </modules>
   </component>
